@@ -50,10 +50,13 @@ También configuré algunos atajos que se adaptan a mi flujo de trabajo. Estos s
 ]
 ```
 `Ctrl + Alt + F`: Formatea el documento usando LSP.
+
 `Ctrl + .`: Muestra las acciones de código disponibles en el contexto actual (por ejemplo, correcciones rápidas).
+
 Para configurar estos atajos, simplemente agrégalos al archivo de configuración de teclas de Sublime Text:
 
 Ve a Preferences > Key Bindings.
+
 Copia y pega el bloque anterior en el archivo User Key Bindings.
 
 
